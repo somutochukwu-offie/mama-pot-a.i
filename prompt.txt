@@ -1,0 +1,38 @@
+1. Lets create a menu bar for a Nigerian online resturant named mamaputonline.
+
+2. Create a logo on the top left hand corner.
+
+3. Create a responsive menu bar which turns to a hamburger bar for screen size less than 768px, with subtitles like products, services, customer service, contact us and a dark blue colour.
+
+4. Create a search window on the very top right hand corner.
+
+Hero Section.
+
+5.Create a hero bar section let, there be a call to action button.
+
+6. The hero section should be vertically partition into two.
+
+7. One side of the hero section should have h2, inviting people to not miss the opportunity to buy from mamaputonline store.
+
+8. The other side should display a steaming, delicious cooked Nigerian food.
+
+Main Section
+
+9. Create a side panel on the left of the main section with items listed Like Services, Products, Customers Services, Contact Us there and connecting users to the main section / product cards. 
+
+10. Create at least three rows on the landing page on the right side of the side panel with each row have at least 4 product cards. 
+
+11. Make product cards should identify the product boldly, the quantity and the price in Naira.
+
+Services
+
+12. Lets create a simple service section for mamaputonline restuarant stating the vital services we offer home delivery, make up others.
+
+Customer Services
+
+13. Create a customer service section where we can be reach for booking and other vital services we offer.
+
+Contact us
+
+Footer
+14. Create a simple footer for mamaputonline

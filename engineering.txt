@@ -1,0 +1,68 @@
+Built using ChatGpt
+
+Menu Bar
+
+1. I imported an icon from the font Awesome Library created a paragraph for the icon and a paragraph called maput. Used a div container on both paragraph and named it class of logo1.
+
+2. I changed the restuarant name from logo to mamaputonline and used h1 as the tag. 
+
+3. I used a class of logo to classify both h1 and logo1 into same container. I made it a display of flex, justify content of center, align item of center, a gap of 1rem and a font-size of .5rem.
+
+4. I made menu bar subtitles responsive when clicked, by using id on the h2 and # on the anchor tag header.
+
+5. I made the menu bar subtitle deep red when hovered on.
+
+6. For the search box, i changed the outline from white to none.
+
+Hero Section
+
+7. I added an image on the hero section.
+
+8. Changed the tag from h1 to h2 on the hero section. Edit the text it generated to a new one. I also editted the paragraph tag.
+
+9. Changed the colour on the call to action button from orange to dark blue colour.
+
+10. Changed the hero section from 70vh to 70%.
+
+Side Bar
+
+11. I changed the colour on the side bar.
+
+14. I made the side bar responsive when clicked and changed the hover colour.
+
+15. I reduced the side bar from 100% screen size to 40% on mobile screen sizes.
+
+Products
+
+16. I added respective images to the product cards, that i have already prompt.
+
+17. I changed the object fit, from cover to contain.
+
+18. Changed the button colours from red to dark blue and the hover effect dark red. 
+
+19. Made the product section, the main section.
+
+Services
+
+20. Changed the colours from dark red to deep blue.
+
+21. I labeled the Services section on HTML.
+
+Customer Services
+
+22. Changed the colours from dark red to deep blue.
+
+23. I labeled the customer service section on HTML. 
+
+24. I removed customer services from the service section and created aseparate section for it. 
+
+Contact-Us
+
+24. I editted the address
+
+25. Made the contact section a flex and justify center, align center, to properly position it.
+
+Footer
+
+26. Changed the footer colour from deep red to deep blue.
+
