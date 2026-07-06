@@ -11,34 +11,40 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <nav class="navbar">
-        <div class="logo">
-            <div class="logo1">
-                <p><i class="fa-solid fa-bowl-rice"></i></p>
-                <p>maput</p>
-            </div>
-            <h1>MamaPutOnline</h1>
+    <header class="header">
+
+        <!-- Logo -->
+        <a href="#" class="logo">
+            <span><i class="fa-solid fa-bowl-food"></i></span>
+            <span>MamaPutOnline</span>
+        </a>
+
+        <!-- Navigation -->
+        <nav class="navbar">
+
+            <ul class="nav-links">
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Customer Service</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+
+        </nav>
+
+        <!-- Right Side -->
+        <div class="header-right">
+
+            <button class="search-btn">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+
+            <button class="menu-btn">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
         </div>
 
-        <input type="checkbox" id="menu-toggle">
-        <label for="menu-toggle" class="menu-icon">
-        ☰
-        </label>
-
-       
-        <ul class="nav-menu">
-            <li><a href="#services">Services</a></li>
-            <li><a href="#products">Products</a></li>
-            <li><a href="#customer-service">Customer-Service</a></li>
-            <li><a href="#contact-us">Contact-Us</a></li>
-        </ul>
-       
-
-        <div class="search-box">
-            <input type="search" placeholder="Search...">
-        </div>
-    </nav>
-
+    </header>
     
 
     <!-- Hero Section -->
