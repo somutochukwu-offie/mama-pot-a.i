@@ -10,7 +10,7 @@ Hero Section.
 
 5.Create a hero bar section let, there be a call to action button.
 
-6. The hero section should be vertically partition into two.
+6. Create a modern hero section that occupies approximately 75–85vh instead of the full viewport height. send the html and css file seperately
 
 7. One side of the hero section should have h2, inviting people to not miss the opportunity to buy from mamaputonline store.
 
